@@ -1,4 +1,4 @@
-('E:\\Workspace\\sinyee_show\\dist\\sinyee_show.exe',
+('E:\\Workspace\\GitHub\\sinyee_show\\dist\\sinyee_show.exe',
  False,
  False,
  None,
@@ -7,4 +7,4 @@
  False,
  True,
  0,
- 1379764558L)
+ 1379860348L)

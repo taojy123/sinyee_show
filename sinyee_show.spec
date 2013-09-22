@@ -1,6 +1,6 @@
 # -*- mode: python -*-
 a = Analysis([os.path.join(HOMEPATH,'support\\_mountzlib.py'), os.path.join(HOMEPATH,'support\\useUnicode.py'), 'sinyee_show.py'],
-             pathex=['E:\\Workspace\\sinyee_show'])
+             pathex=['E:\\Workspace\\GitHub\\sinyee_show'])
 pyz = PYZ(a.pure)
 exe = EXE( pyz,
           a.scripts,
