@@ -1,0 +1,10 @@
+('E:\\Workspace\\sinyee_show\\dist\\sinyee_show.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ False,
+ True,
+ 0,
+ 1379764558L)
